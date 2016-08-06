@@ -1,0 +1,28 @@
+_repo: The-Letters-of-Robert-Burns_9863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
+description: V. 1. 1779-1887 with autobiographical letter and common-place book --
+  v. 2. 1788-1790 -- v. 3. 1791-1796 with notes on Scottish songs -- v. 4. The Clarinda
+  correspondence and the correspondence with George Thomson.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Burns, Robert, 1759-1796 -- Correspondence'
+- !lcsh 'Poets, Scottish -- 18th century -- Correspondence'
+- GITenberg
+title: The Letters of Robert Burns
+url: http://www.gutenberg.org/ebooks/9863
